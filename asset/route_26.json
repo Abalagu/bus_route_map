@@ -1,0 +1,1694 @@
+[
+   {
+      "Key": "a0684c1d-e231-4bb0-858a-7b446c6e46e4",
+      "Name": "Trigon",
+      "Description": "",
+      "Rank": 0,
+      "Longtitude": -10724489.831063235,
+      "Latitude": 3582762.3901209766,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "9a4a56a6-9438-4af7-a338-040b8774ee92",
+         "Rank": 0,
+         "Name": "Trigon",
+         "StopCode": "2601",
+         "IsTimePoint": true
+      },
+      "RouteHeaderRank": 0
+   },
+   {
+      "Key": "012c6269-5bd7-4e38-9511-b494ddc11311",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 1,
+      "Longtitude": -10724506.700955244,
+      "Latitude": 3582746.7778055361,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "7aa83ef2-b670-43cf-8095-0460a467df71",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 2,
+      "Longtitude": -10724258.429889591,
+      "Latitude": 3582430.3724065498,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "93ea44a3-3a55-46ed-8206-8ca2e4e5b922",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 3,
+      "Longtitude": -10724243.500781618,
+      "Latitude": 3582411.9850578452,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "10dca44e-47c7-4ae4-a7c4-d7087ab94343",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 4,
+      "Longtitude": -10724228.422382563,
+      "Latitude": 3582401.7506018532,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e3ecadfe-d40c-484c-8cd0-089e52935845",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 5,
+      "Longtitude": -10724213.194692418,
+      "Latitude": 3582396.3731791773,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "31316c8f-3fe9-4838-9365-dc48b0230bd0",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 6,
+      "Longtitude": -10724192.293941252,
+      "Latitude": 3582393.250805778,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "5253bcb2-e318-4d41-be87-5fe2fa6be3f9",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 7,
+      "Longtitude": -10724173.781847367,
+      "Latitude": 3582388.220316946,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "6faa7646-d8c5-4d92-a78e-b0d8215c0880",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 8,
+      "Longtitude": -10724156.911955351,
+      "Latitude": 3582379.7205300536,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e0537bf7-b240-466e-bc62-f89b0dcda503",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 9,
+      "Longtitude": -10724142.878593853,
+      "Latitude": 3582368.6187762683,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "11ea127b-1a84-4818-adb5-ebb00450c7f8",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 10,
+      "Longtitude": -10723892.666744167,
+      "Latitude": 3582061.4163366361,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "326461e9-ec31-4ebf-8fe7-21062a1213de",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 11,
+      "Longtitude": -10723779.802687859,
+      "Latitude": 3582170.1765872953,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ff837255-108d-4f29-8d0f-cd37dc6d17b1",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 12,
+      "Longtitude": -10723634.8410494,
+      "Latitude": 3582326.9872872275,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "44d15b76-89cc-4ce1-bf1f-9c0d68bfdf17",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 13,
+      "Longtitude": -10723498.836875731,
+      "Latitude": 3582486.4019469088,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4aac567d-ee6b-4677-9e5f-49fb5fb2ff67",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 14,
+      "Longtitude": -10723325.659223208,
+      "Latitude": 3582666.9818305932,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4d9c1f0c-d2ec-4780-a856-de1a50feec27",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 15,
+      "Longtitude": -10723165.917767854,
+      "Latitude": 3582812.5231321156,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "d51d336c-9226-4446-b529-f71914465f1b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 16,
+      "Longtitude": -10722993.785152877,
+      "Latitude": 3582640.441108109,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f914d983-f34b-4f92-a42d-b450e6008e76",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 17,
+      "Longtitude": -10722816.725932278,
+      "Latitude": 3582467.6675835354,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "361fb29a-2094-424d-b4ab-21d6b40dbc33",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 18,
+      "Longtitude": -10722758.054537922,
+      "Latitude": 3582412.6789195645,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "c50ab147-bda6-4c7d-bcfe-4dbb1b2f4da5",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 19,
+      "Longtitude": -10722708.48989944,
+      "Latitude": 3582373.4757923456,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "2b8b4cf1-e8f6-4ff0-b840-cca387db5654",
+      "Name": "Scandia - South",
+      "Description": "",
+      "Rank": 20,
+      "Longtitude": -10722693.560791466,
+      "Latitude": 3582361.1597909783,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "616ced73-90eb-49be-b46b-c2dba3558b1d",
+         "Rank": 20,
+         "Name": "Scandia - South",
+         "StopCode": "2602",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f26de18e-50c3-46c1-b367-bad9859ea91e",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 21,
+      "Longtitude": -10722672.809331374,
+      "Latitude": 3582346.588762742,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f5301449-6429-4c03-8f7f-74b31258bbc3",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 22,
+      "Longtitude": -10722578.905242207,
+      "Latitude": 3582274.948120486,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "710844dd-3280-44e4-b402-262ab0a74ade",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 23,
+      "Longtitude": -10722509.335599026,
+      "Latitude": 3582218.5726004997,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "19f82742-7f4d-468a-9262-e8cf17a8be42",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 24,
+      "Longtitude": -10722472.609993413,
+      "Latitude": 3582186.4820332257,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "eb8040a7-d154-4246-ab0d-a43baa9d4c19",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 25,
+      "Longtitude": -10722410.057030981,
+      "Latitude": 3582125.7703740681,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "a605be5e-9fe3-4893-91e1-18e94e54da3c",
+      "Name": "Lexington - South",
+      "Description": "",
+      "Rank": 26,
+      "Longtitude": -10722387.812660098,
+      "Latitude": 3582103.3938653353,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "04739425-56e5-40f7-ab44-3a963c28b391",
+         "Rank": 26,
+         "Name": "Lexington - South",
+         "StopCode": "2703",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "6601bd31-e7dd-442f-94ea-aae9f1002d25",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 27,
+      "Longtitude": -10722354.968622552,
+      "Latitude": 3582072.864739609,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e55ecdab-24d8-489e-8b1d-15de95790eb9",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 28,
+      "Longtitude": -10722279.576627271,
+      "Latitude": 3581999.8379850141,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b3074f87-4e50-476f-b7b1-8fdb116e23a8",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 29,
+      "Longtitude": -10722210.305566253,
+      "Latitude": 3581931.1481245933,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "2d44e221-ba97-4f12-b516-85cd7a45fd45",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 30,
+      "Longtitude": -10722197.167951232,
+      "Latitude": 3581921.6078959922,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "bee08e29-5358-40d8-95b2-6c12f0586f18",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 31,
+      "Longtitude": -10722171.340594433,
+      "Latitude": 3581906.6904621855,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4f68441f-186b-4471-bfe1-e40a369c2669",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 32,
+      "Longtitude": -10722130.882711817,
+      "Latitude": 3581885.1816354282,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "a484dfc2-6308-4ec5-ad5e-46f2aa8c6820",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 33,
+      "Longtitude": -10722048.62332687,
+      "Latitude": 3581841.8171776254,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e9c14647-d323-4092-aed1-1cf8a1be2db0",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 34,
+      "Longtitude": -10722041.755937202,
+      "Latitude": 3581836.9603677052,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "a81be206-d979-45d0-a36e-33f5577edcd3",
+      "Name": "Lemon Tree",
+      "Description": "",
+      "Rank": 35,
+      "Longtitude": -10722034.142092127,
+      "Latitude": 3581830.1955284495,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "24480347-14c7-4079-a299-284b9e0be2e7",
+         "Rank": 35,
+         "Name": "Lemon Tree",
+         "StopCode": "2604",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "bd0f258b-ef44-497f-b486-7e522faac7b5",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 36,
+      "Longtitude": -10721996.968613273,
+      "Latitude": 3581799.6670685196,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "758195f6-ac34-4204-8d4d-433ae2a1272b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 37,
+      "Longtitude": -10721966.363941923,
+      "Latitude": 3581771.7405311237,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "07b64c9d-4b30-4d74-8631-43cf74577087",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 38,
+      "Longtitude": -10721940.387294032,
+      "Latitude": 3581756.4763631,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4abef0b8-223b-4527-99d6-36dc4785df05",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 39,
+      "Longtitude": -10721925.607477142,
+      "Latitude": 3581751.9664988257,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "6ad0d579-492f-4493-a78f-e8d0c5711058",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 40,
+      "Longtitude": -10721909.334749447,
+      "Latitude": 3581747.8035486327,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "c0ea7d1b-889f-4dc6-ae08-38af6196fb24",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 41,
+      "Longtitude": -10721894.256350383,
+      "Latitude": 3581744.5078807059,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "09373421-f207-4c31-8168-05589a8fb7ab",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 42,
+      "Longtitude": -10721727.796796445,
+      "Latitude": 3581730.2844817373,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4b8a916a-d30d-4256-96da-d5d7802ba55e",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 43,
+      "Longtitude": -10721582.685866915,
+      "Latitude": 3581716.4080104902,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e923b3ab-8cb8-4923-97f9-8385ed334923",
+      "Name": "Brentwood",
+      "Description": "",
+      "Rank": 44,
+      "Longtitude": -10721563.12873546,
+      "Latitude": 3581713.9796296069,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "72e61445-edcd-4688-95aa-072ff793c536",
+         "Rank": 44,
+         "Name": "Brentwood",
+         "StopCode": "2605",
+         "IsTimePoint": true
+      },
+      "RouteHeaderRank": 1
+   },
+   {
+      "Key": "c29ba39e-209d-402a-9bc0-4c62dd8a768f",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 45,
+      "Longtitude": -10721547.154589929,
+      "Latitude": 3581711.0308820168,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "764e2471-32a3-4175-808a-a61070b6d66a",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 46,
+      "Longtitude": -10721528.791787114,
+      "Latitude": 3581706.3475784464,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "97d9e833-7109-48c4-b0cc-820be2c210c2",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 47,
+      "Longtitude": -10721511.772604026,
+      "Latitude": 3581699.0624430557,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ce5ef609-2e0c-46d6-b6bc-c98693b4e542",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 48,
+      "Longtitude": -10721498.634989005,
+      "Latitude": 3581692.2976782522,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f1cbb174-ee94-49b4-a112-86e46f5868a0",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 49,
+      "Longtitude": -10721483.705881033,
+      "Latitude": 3581683.2779975487,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "a48c3519-7a66-48e1-8bf8-f8f9f5c04030",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 50,
+      "Longtitude": -10721458.624979619,
+      "Latitude": 3581663.6775599369,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "088d5e74-82e4-4672-b91a-d2be46f272df",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 51,
+      "Longtitude": -10721348.149580598,
+      "Latitude": 3581561.1660363083,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4f02c51b-8469-4ced-a93a-be51f0c01970",
+      "Name": "Arbor Square",
+      "Description": "",
+      "Rank": 52,
+      "Longtitude": -10721272.608294237,
+      "Latitude": 3581643.3833338455,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "29e8d7d2-a767-44be-9b76-f90feac198e2",
+         "Rank": 52,
+         "Name": "Arbor Square",
+         "StopCode": "2606",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f55ccc28-dc93-43cb-86c1-828d6c5981f9",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 53,
+      "Longtitude": -10721160.938566566,
+      "Latitude": 3581765.6695529809,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "8887a3ff-f28b-44a4-9a23-d58beec5e03b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 54,
+      "Longtitude": -10721084.501533728,
+      "Latitude": 3581851.357345473,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "c462c946-2b4a-4610-922c-1d9d14ff1506",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 55,
+      "Longtitude": -10721041.953575997,
+      "Latitude": 3581893.6810867526,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "fce5803c-7fac-4957-b239-c99012d06b7c",
+      "Name": "Southwest Parkway @ Cornell",
+      "Description": "",
+      "Rank": 56,
+      "Longtitude": -10720802.789266206,
+      "Latitude": 3582141.5553771346,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "90af776d-31f4-4074-8d6b-f61fba154342",
+         "Rank": 56,
+         "Name": "Southwest Parkway @ Cornell",
+         "StopCode": "2607",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "23587c8b-2954-45b5-bb5a-0aaeeab4aeb6",
+      "Name": "Southwest Parkway @ Dartmouth",
+      "Description": "",
+      "Rank": 57,
+      "Longtitude": -10720473.453144234,
+      "Latitude": 3582484.1468831617,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "56ddd226-657c-4107-8368-69f8e0fee333",
+         "Rank": 57,
+         "Name": "Southwest Parkway @ Dartmouth",
+         "StopCode": "2608",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b2db8c42-a29f-49db-a6be-2e020f56e5f8",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 58,
+      "Longtitude": -10720248.620778104,
+      "Latitude": 3582719.7165048895,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "117a6340-65de-4b05-85de-fdcf6530aec1",
+      "Name": "Eastmark/Windsor Point",
+      "Description": "",
+      "Rank": 59,
+      "Longtitude": -10720049.018604456,
+      "Latitude": 3582924.2389376238,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "ef1f5074-6b6b-45f8-9698-081e918d4a56",
+         "Rank": 59,
+         "Name": "Eastmark/Windsor Point",
+         "StopCode": "2610",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "8d4cda71-656a-4b22-b875-488282e97d8b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 60,
+      "Longtitude": -10719889.575731268,
+      "Latitude": 3583090.2532409178,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "64618f69-4ce4-4b91-978e-ef1782996c40",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 61,
+      "Longtitude": -10719838.816764148,
+      "Latitude": 3583143.6835997421,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "d42e58d9-e0d0-41f6-9377-1ec90cb3df7c",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 62,
+      "Longtitude": -10720099.031116182,
+      "Latitude": 3583392.6235041255,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "2860893d-f899-4a5b-9f15-59986d7c5d0d",
+      "Name": "Trails @ Wolf Pen Creek",
+      "Description": "",
+      "Rank": 63,
+      "Longtitude": -10720296.09534147,
+      "Latitude": 3583185.664755878,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "25acde00-50e2-46ef-967c-70210ffcffb0",
+         "Rank": 63,
+         "Name": "Trails @ Wolf Pen Creek",
+         "StopCode": "2611",
+         "IsTimePoint": true
+      },
+      "RouteHeaderRank": 2
+   },
+   {
+      "Key": "a8f7e2af-8633-4e15-a4df-49817842c240",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 64,
+      "Longtitude": -10720338.344717041,
+      "Latitude": 3583141.0814665859,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b3a534a9-1b30-4ce4-a49b-065b6f2bb536",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 65,
+      "Longtitude": -10720369.247970555,
+      "Latitude": 3583101.1821594052,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ca86dbe1-4663-4750-bafe-c84a377eec93",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 66,
+      "Longtitude": -10720391.044468207,
+      "Latitude": 3583070.3036523908,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f83f1397-6455-4641-8d91-4474f630c26b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 67,
+      "Longtitude": -10720411.198763976,
+      "Latitude": 3583040.6395404022,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "cea75c0a-f168-4d0e-8f97-9d6b953d3085",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 68,
+      "Longtitude": -10720431.950224059,
+      "Latitude": 3583010.4550775029,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "fe16ba49-9ec6-4a85-92b6-99557db82fe8",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 69,
+      "Longtitude": -10720445.08783908,
+      "Latitude": 3582993.8016118892,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b7f31883-09d1-4772-a6b9-d388e8996de9",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 70,
+      "Longtitude": -10720457.628289785,
+      "Latitude": 3582979.9237407846,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4fa1f64e-1ace-4cdd-8f61-feab040c1ded",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 71,
+      "Longtitude": -10720461.509857854,
+      "Latitude": 3582974.1991234324,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "fdceff4c-4bef-4a7c-8db2-9070246ae89a",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 72,
+      "Longtitude": -10720467.182918893,
+      "Latitude": 3582968.8214549716,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "aa3233e6-bc03-449b-8433-d63bf7d61713",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 73,
+      "Longtitude": -10720532.57241182,
+      "Latitude": 3582908.6264204392,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ee18d2b0-674a-4b22-bdb9-e05fc1262be9",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 74,
+      "Longtitude": -10720563.475665336,
+      "Latitude": 3582879.3096351828,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "d59a8cf0-a5c1-48e9-849a-999aa40b410e",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 75,
+      "Longtitude": -10720583.629961103,
+      "Latitude": 3582863.6971739945,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "be19fc88-f356-4b20-b895-d319e6051a70",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 76,
+      "Longtitude": -10720625.431463445,
+      "Latitude": 3582835.421321623,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "da545f39-4d82-409b-989d-96fb076e3806",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 77,
+      "Longtitude": -10720660.813449346,
+      "Latitude": 3582821.1966838217,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "2f97a76d-4968-4cfa-b04b-2927e5ac6059",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 78,
+      "Longtitude": -10720697.539054971,
+      "Latitude": 3582803.8495864291,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e8000560-0dc9-44f7-b82a-3bdb82cdb20e",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 79,
+      "Longtitude": -10720750.985261528,
+      "Latitude": 3582783.380042403,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "996844f3-54dd-4643-95ec-f54dbe3b1e27",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 80,
+      "Longtitude": -10720771.886012694,
+      "Latitude": 3582775.0534577919,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f8a82f0e-452d-4c71-b2d2-ab3b02c6d8c0",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 81,
+      "Longtitude": -10720781.142059637,
+      "Latitude": 3582769.1554637076,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ad3d0386-0b32-484d-ad88-4b275fdbc616",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 82,
+      "Longtitude": -10720792.936054939,
+      "Latitude": 3582759.4411265678,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "06bf1637-a586-4c3a-af45-4fc75e4c7f53",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 83,
+      "Longtitude": -10720803.834303765,
+      "Latitude": 3582748.1655661203,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "2331a906-4850-447d-ad17-267b0cbd7c00",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 84,
+      "Longtitude": -10720816.225463388,
+      "Latitude": 3582730.6451000352,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b3b7d0dc-60f8-4b40-a061-0ed15104ddb6",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 85,
+      "Longtitude": -10720823.540726289,
+      "Latitude": 3582715.5532330549,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "16a12404-29c8-45cd-8b99-bccc4454ed39",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 86,
+      "Longtitude": -10720829.51236948,
+      "Latitude": 3582695.6042413949,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "7cddfb38-533f-4e3a-89b1-022270cbf005",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 87,
+      "Longtitude": -10720831.901026756,
+      "Latitude": 3582680.1654783492,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ccaea0ac-0b73-4da8-bd09-7587a7891ab3",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 88,
+      "Longtitude": -10720831.602444593,
+      "Latitude": 3582656.2267597923,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "d835595c-51ef-468a-bd14-70d565641e39",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 89,
+      "Longtitude": -10720823.988599533,
+      "Latitude": 3582622.40038768,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "8f5152d5-376d-428f-b5aa-cd881e7a93cb",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 90,
+      "Longtitude": -10720799.504862454,
+      "Latitude": 3582562.7274206197,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "31529434-32f6-478f-9113-b472579307d5",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 91,
+      "Longtitude": -10720785.770083109,
+      "Latitude": 3582532.3706424115,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "3322f0fe-3d8e-459a-9ad7-3db124520b93",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 92,
+      "Longtitude": -10720770.840975137,
+      "Latitude": 3582501.3200711091,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f5d6f660-4b75-4c3e-89f7-5b7e5a22755b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 93,
+      "Longtitude": -10720811.896022068,
+      "Latitude": 3582481.0244878931,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "47e36048-f52b-43f8-b573-14e94c3722e5",
+      "Name": "Colgate Circle",
+      "Description": "",
+      "Rank": 94,
+      "Longtitude": -10720826.377256809,
+      "Latitude": 3582475.8204974812,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "1a41d3b6-faeb-4ec6-9b53-adc8159c68f7",
+         "Rank": 94,
+         "Name": "Colgate Circle",
+         "StopCode": "2613",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "c70c3dba-42a7-4272-95c2-fb861f5c4904",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 95,
+      "Longtitude": -10720839.216289666,
+      "Latitude": 3582470.4430430066,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "802dfe5d-49fe-4378-9a21-ce359ea13825",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 96,
+      "Longtitude": -10720910.876007961,
+      "Latitude": 3582442.1680784337,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "0fbbf253-adaa-49f0-8058-0c27e9e9484b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 97,
+      "Longtitude": -10721030.159580695,
+      "Latitude": 3582398.8016923554,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "9fbbf9a0-e94c-409c-b9dd-de9058d549b3",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 98,
+      "Longtitude": -10721055.389773168,
+      "Latitude": 3582387.0060613239,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "251702a1-1860-4346-bc6f-bf9f784cea9a",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 99,
+      "Longtitude": -10721081.963585371,
+      "Latitude": 3582370.3534246525,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "66c2ea2e-6376-4aee-959f-2086d35f76ae",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 100,
+      "Longtitude": -10721147.203787232,
+      "Latitude": 3582303.9165632878,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "cb58dc3f-0af1-4f06-a223-b18e847499e4",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 101,
+      "Longtitude": -10721271.71254776,
+      "Latitude": 3582175.5539128622,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "1f52113a-f147-4cfa-a76f-773183bd3d2f",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 102,
+      "Longtitude": -10721333.817636937,
+      "Latitude": 3582110.8526971424,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "8a4ca5bf-d015-4f45-94d4-af27ece097d3",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 103,
+      "Longtitude": -10721393.683359921,
+      "Latitude": 3582046.3252759818,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ad2f8df6-a6bd-494f-bf3c-22162b5bb254",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 104,
+      "Longtitude": -10721471.61330357,
+      "Latitude": 3581961.1565273833,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "51d4730a-f60c-48eb-8d36-71eb05c67be6",
+      "Name": "Redstone",
+      "Description": "",
+      "Rank": 105,
+      "Longtitude": -10721488.781777738,
+      "Latitude": 3581942.4229495726,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "b0edecfe-7c44-4a14-a143-68e9e514c3e3",
+         "Rank": 105,
+         "Name": "Redstone",
+         "StopCode": "2615",
+         "IsTimePoint": true
+      },
+      "RouteHeaderRank": 3
+   },
+   {
+      "Key": "abbb601d-c4d0-48c1-8086-9666039bf851",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 106,
+      "Longtitude": -10721504.755923279,
+      "Latitude": 3581924.3832344613,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "7584d1a5-b002-4e86-adce-687471cc8d27",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 107,
+      "Longtitude": -10721563.427317623,
+      "Latitude": 3581854.1326683913,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "dfd59d4b-9073-43a6-b729-5a3cf2c5df7d",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 108,
+      "Longtitude": -10721581.491538277,
+      "Latitude": 3581832.6239318629,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "5f418645-4644-4b5f-b3cb-2e46ac697409",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 109,
+      "Longtitude": -10721591.344749535,
+      "Latitude": 3581817.5331468331,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "0a51add0-e8fd-40a4-944e-9ccb94126563",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 110,
+      "Longtitude": -10721605.079528881,
+      "Latitude": 3581793.5960768415,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "d5a1490d-50f4-49b2-ab19-c5bd04896c63",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 111,
+      "Longtitude": -10721612.54408286,
+      "Latitude": 3581760.2924033627,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4e9b7222-bc04-4db6-a9b3-27a1a42cec21",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 112,
+      "Longtitude": -10721616.425650937,
+      "Latitude": 3581722.1320530185,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "53dd5fca-548d-41a8-9680-d5d0b4b82efe",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 113,
+      "Longtitude": -10721735.112059357,
+      "Latitude": 3581733.5801459081,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "da3fdec9-324c-4811-bb9f-4ea1411e9de6",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 114,
+      "Longtitude": -10721858.127909085,
+      "Latitude": 3581744.5078807059,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4ceed928-5dfe-42e1-aacb-8609524c94e6",
+      "Name": "Alpine Circle",
+      "Description": "",
+      "Rank": 115,
+      "Longtitude": -10721872.758434907,
+      "Latitude": 3581745.72207405,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "ee6881d6-19aa-4bb1-b8e5-afef2728faed",
+         "Rank": 115,
+         "Name": "Alpine Circle",
+         "StopCode": "2616",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "a517a93b-e227-4137-930d-9794975e5f44",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 116,
+      "Longtitude": -10721893.509894989,
+      "Latitude": 3581747.1097237282,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "6009092c-6b68-4153-a6d2-5848b4935668",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 117,
+      "Longtitude": -10721908.737585122,
+      "Latitude": 3581750.7523048772,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "e774a130-e9ff-406a-9231-8354cf333360",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 118,
+      "Longtitude": -10721923.517402027,
+      "Latitude": 3581754.7417997243,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "0b8b3f03-6eda-4ee2-9f8f-ab221b6b66fd",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 119,
+      "Longtitude": -10721937.700054603,
+      "Latitude": 3581759.7720341617,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b0e2a52d-df4b-4cff-83c6-7ffcdd913ff1",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 120,
+      "Longtitude": -10721951.434833938,
+      "Latitude": 3581766.5368353892,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "6d131419-76db-4531-89cc-379bf587cae0",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 121,
+      "Longtitude": -10721975.619988866,
+      "Latitude": 3581784.576323193,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "097e375e-a870-4370-9f31-84cbd77a07ee",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 122,
+      "Longtitude": -10721992.937754113,
+      "Latitude": 3581800.8812672081,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "bb007e4c-c4fb-4bb6-add3-90bf3039aee4",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 123,
+      "Longtitude": -10722027.573284624,
+      "Latitude": 3581830.7159005743,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "733fbb1e-92bb-4eb7-80dd-064e5786374c",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 124,
+      "Longtitude": -10722036.978622649,
+      "Latitude": 3581837.8276550635,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "97e6d394-c519-4ee4-a0b0-28c42fd1544f",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 125,
+      "Longtitude": -10722064.298890248,
+      "Latitude": 3581853.6122952923,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "7f73969e-b962-4373-b825-afa75d6502ca",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 126,
+      "Longtitude": -10722145.363946555,
+      "Latitude": 3581897.4971688124,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "febb5f57-4a8e-4e79-833c-1273ad6be030",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 127,
+      "Longtitude": -10722179.850185983,
+      "Latitude": 3581916.5775965564,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ec25efb7-f37e-415a-adcb-b95df2e97554",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 128,
+      "Longtitude": -10722199.705899591,
+      "Latitude": 3581927.6789497081,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "cd4395b6-121e-4474-9bb2-b8d93eb0506f",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 129,
+      "Longtitude": -10722219.412322126,
+      "Latitude": 3581944.8513747533,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "0a69085c-1f4c-4230-aa00-0918f9f7090a",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 130,
+      "Longtitude": -10722290.922749329,
+      "Latitude": 3582015.1024495927,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "be3d900e-959a-4b7f-bf18-95087e02fe69",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 131,
+      "Longtitude": -10722345.563284528,
+      "Latitude": 3582068.18130076,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b72d2ff7-ff88-4ebe-b50c-29b3707f55e5",
+      "Name": "Lexington - North",
+      "Description": "",
+      "Rank": 132,
+      "Longtitude": -10722354.222167157,
+      "Latitude": 3582077.7216409906,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "89604ef8-9db2-4e3a-a47b-946123f08f71",
+         "Rank": 132,
+         "Name": "Lexington - North",
+         "StopCode": "2618",
+         "IsTimePoint": true
+      },
+      "RouteHeaderRank": 4
+   },
+   {
+      "Key": "ea1a1650-8f70-40b2-9d53-d71b10850ec3",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 133,
+      "Longtitude": -10722407.668373704,
+      "Latitude": 3582128.8926807935,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f74374ac-eeb4-407f-986f-c50140eb62ad",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 134,
+      "Longtitude": -10722473.057866646,
+      "Latitude": 3582190.8185915686,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "56c28c2b-0062-4639-8faa-6c9a04d9677b",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 135,
+      "Longtitude": -10722506.051195273,
+      "Latitude": 3582220.6541536567,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "825eb72e-9d9c-4401-9b02-122147244b52",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 136,
+      "Longtitude": -10722542.926091976,
+      "Latitude": 3582250.6632500025,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "00896800-7ad8-468f-9d36-2eac1fd3fa54",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 137,
+      "Longtitude": -10722669.674218703,
+      "Latitude": 3582348.3234080737,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "fec803e2-56fa-4033-9abe-f811796f9acb",
+      "Name": "Scandia - North",
+      "Description": "",
+      "Rank": 138,
+      "Longtitude": -10722685.349782079,
+      "Latitude": 3582359.9455379816,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "62f02507-e3ab-4f21-abde-8b4c49f2c4c8",
+         "Rank": 138,
+         "Name": "Scandia - North",
+         "StopCode": "2714",
+         "IsTimePoint": false
+      },
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "b5acad26-be7c-4404-af3f-44c6c30d0794",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 139,
+      "Longtitude": -10722706.698406488,
+      "Latitude": 3582375.3839063221,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "4fca4850-529f-419b-a33e-7c0791774e02",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 140,
+      "Longtitude": -10722756.860209284,
+      "Latitude": 3582415.45436685,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "bab16bf8-3319-4165-a961-616dc3764c45",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 141,
+      "Longtitude": -10722809.709251529,
+      "Latitude": 3582466.1063878671,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ed220d17-3dad-42e3-9761-50307eb33383",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 142,
+      "Longtitude": -10722992.292242078,
+      "Latitude": 3582646.5125102438,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "3b20b943-8235-4974-b718-07ad0c3ac6b1",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 143,
+      "Longtitude": -10723174.278068325,
+      "Latitude": 3582827.2681735945,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "05ef6034-e4bf-43f9-8444-6187577295e7",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 144,
+      "Longtitude": -10723362.683410982,
+      "Latitude": 3582649.9818842257,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "c6a0c20b-c26c-4587-8113-3d08c56fdca0",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 145,
+      "Longtitude": -10723545.714274785,
+      "Latitude": 3582461.7697341992,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "0e48f792-9a6c-43df-b93b-9163b1bef565",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 146,
+      "Longtitude": -10723717.69759867,
+      "Latitude": 3582270.7849964988,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "33669bde-f754-499f-a5a1-fd6094abf8a4",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 147,
+      "Longtitude": -10723881.171331018,
+      "Latitude": 3582102.0061761867,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "172ba547-975a-4e98-b5d5-fe5a94a2616d",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 148,
+      "Longtitude": -10723891.173833366,
+      "Latitude": 3582099.7511816546,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "9162ff7b-88bb-4f2f-af2f-46bab8096d8a",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 149,
+      "Longtitude": -10723899.832715988,
+      "Latitude": 3582104.6080934624,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "da32cdff-157f-4aa1-a9c3-6d1e227b6d54",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 150,
+      "Longtitude": -10724335.1655046,
+      "Latitude": 3582659.5226676068,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "dfee88c7-1113-4007-9cb0-61854a2f5c21",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 151,
+      "Longtitude": -10724321.580016335,
+      "Latitude": 3582671.1450862684,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "61f66d9f-2062-4f86-896e-cab0531abdda",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 152,
+      "Longtitude": -10724383.237232281,
+      "Latitude": 3582755.9717222792,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "f411cead-2b90-488c-9784-e2d875175c43",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 153,
+      "Longtitude": -10724419.067091417,
+      "Latitude": 3582799.6862866264,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "9c7472f2-d221-4c84-bdbb-f57a466bc71c",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 154,
+      "Longtitude": -10724427.875265129,
+      "Latitude": 3582803.3291738741,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "98910e8d-6d3e-4440-889d-f65885387ef1",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 155,
+      "Longtitude": -10724435.787692351,
+      "Latitude": 3582801.7679363484,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "18dc0b7c-9178-4cd3-9d4e-8b23c35bb817",
+      "Name": "Way Point",
+      "Description": "",
+      "Rank": 156,
+      "Longtitude": -10724479.529978735,
+      "Latitude": 3582769.1554637076,
+      "PointTypeCode": 0,
+      "RouteHeaderRank": -1
+   },
+   {
+      "Key": "ea2577fa-9150-48f3-95a9-38515926d22d",
+      "Name": "Trigon",
+      "Description": "",
+      "Rank": 157,
+      "Longtitude": -10724489.831063235,
+      "Latitude": 3582762.3901209766,
+      "PointTypeCode": 1,
+      "Stop": {
+         "Key": "9a4a56a6-9438-4af7-a338-040b8774ee92",
+         "Rank": 157,
+         "Name": "Trigon",
+         "StopCode": "2601",
+         "IsTimePoint": true
+      },
+      "RouteHeaderRank": 5
+   }
+]
